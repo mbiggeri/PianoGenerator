@@ -11,3 +11,6 @@ __pycache__/
 
 # File di output o log
 *.log
+
+# venv per MacOS
+.venv/
